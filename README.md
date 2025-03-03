@@ -5,11 +5,11 @@ The Superstore Sales Analysis project focuses on uncovering key business insight
 
 🔍 Objective
 The goal of this project is to:
-✔ Understand sales performance across different categories and regions
-✔ Identify frequent customers and classify them as new or existing
-✔ Analyze shipping time and its impact on customer satisfaction
-✔ Measure the impact of discounts on profitability
-✔ Provide data-driven insights for better decision-making
+1. ✔ Understand sales performance across different categories and regions
+2. ✔ Identify frequent customers and classify them as new or existing
+3. ✔ Analyze shipping time and its impact on customer satisfaction
+4. ✔ Measure the impact of discounts on profitability
+5. ✔ Provide data-driven insights for better decision-making
 
 📂 Dataset
 The dataset used is the Sample Superstore dataset, which contains sales transaction records, including:
@@ -25,6 +25,7 @@ Python for data manipulation and analysis
 Pandas for data cleaning and aggregation
 Matplotlib & Seaborn for data visualization
 Jupyter Notebook for interactive analysis
+
 📊 Key Analyses & Insights
 1️⃣ Customer Segmentation: New vs. Existing Customers
 We classify customers as "New" or "Existing" based on their first purchase. This helps businesses track customer retention rates and understand if customers are returning due to brand loyalty or discounts.
